@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="365.0" prefWidth="800.0" style="-fx-background-color: #FFF;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <JFXTextField focusColor="#337ab7" labelFloat="true" layoutX="70.0" layoutY="106.0" promptText="DNI" unFocusColor="#777777">
+         <font>
+            <Font name="Microsoft JhengHei" size="22.0" />
+         </font>
+      </JFXTextField>
+      <JFXButton id="btnOk" layoutX="361.0" layoutY="106.0" prefHeight="42.0" prefWidth="89.0" stylesheets="@../css/main.css" text="OK" textFill="WHITE">
+         <font>
+            <Font name="Microsoft JhengHei" size="22.0" />
+         </font>
+      </JFXButton>
+   </children>
+</AnchorPane>

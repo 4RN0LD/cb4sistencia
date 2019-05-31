@@ -1,0 +1,9 @@
+#btnOk:hover{
+    /*-fx-background-color: #337ab7;*/
+
+}
+#btnOk{
+    -fx-background-color: #337ab7;
+    -fx-border-radius: 10px;
+
+}
